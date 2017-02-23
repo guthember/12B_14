@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\IpCimek\bin\Debug\IpCimek.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\IpCimek\bin\Debug\IpCimek.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\IpCimek\obj\x86\Debug\IpCimek.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\IpCimek\obj\x86\Debug\IpCimek.pdb
